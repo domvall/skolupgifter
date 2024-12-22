@@ -1,0 +1,23 @@
+[
+  {
+    "ProductId": "4d678",
+    "ProductName": "a",
+    "ProductPrice": 1.0,
+    "PriceDecimalTest": "1",
+    "ProductCategory": "b"
+  },
+  {
+    "ProductId": "9915f",
+    "ProductName": "b",
+    "ProductPrice": 1.0,
+    "PriceDecimalTest": "1",
+    "ProductCategory": "b"
+  },
+  {
+    "ProductId": "3c22c",
+    "ProductName": "c",
+    "ProductPrice": 3.0,
+    "PriceDecimalTest": "3",
+    "ProductCategory": null
+  }
+]
